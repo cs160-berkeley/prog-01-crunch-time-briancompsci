@@ -1,6 +1,7 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+The title of my app is 'Crunch Time!'
+<img src="
 
 ## Authors
 
