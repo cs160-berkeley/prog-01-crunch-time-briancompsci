@@ -8,7 +8,7 @@ Brian Chang ([brian.chang@berkeley.edu](mailto:brian.chang@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Crunch Time!] (https://vimeo.com/154377019)
 
 ## Screenshots
 
