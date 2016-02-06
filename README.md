@@ -25,10 +25,6 @@ See [Crunch Time!] (https://vimeo.com/154377019) on Vimeo!
 <img src="screenshots/ss4.png" height="400" alt="Screenshot"/>
 <img src="screenshots/ss5.png" height="400" alt="Screenshot"/>
 
-## Link to GitHub
-
-See [Crunch Time!] (https://github.com/cs160-sp16/prog-01-crunch-time-briancompsci) on GitHub!
-
 ## Acknowledgments
 
 I'd like to thank the CS160 TAs for helping me set up Android SDK.
