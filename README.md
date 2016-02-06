@@ -15,7 +15,7 @@ From the list of exercises, select one by entering the number of reps or minutes
 
 ## Demo Video
 
-See [Crunch Time!] (https://vimeo.com/154377019)
+See [Crunch Time!] (https://vimeo.com/154377019) on Vimeo!
 
 ## Screenshots
 
