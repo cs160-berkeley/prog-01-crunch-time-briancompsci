@@ -2,7 +2,7 @@
 
 The title of my project is 'Crunch Time!' First, it allows the user to input the number of reps or minutes s/he did for a certain exercise. Then, the user can see how many calories s/he has burned, along with an equivalent number of reps or minutes needed to burn the same number of calories for each of the other exercises. Lastly, the user can also enter the number of calories s/he wants to burn to see the reps or minutes of exercises needed to burn his/her target amount of calories.
 
-## Cover Photo
+## Title Image
 <img src="screenshots/ss1.png" height="400" alt="Screenshot"/>
 
 ## Authors
