@@ -29,3 +29,6 @@ See [Crunch Time!] (https://vimeo.com/154377019)
 
 I'd like to thank the CS160 TAs for helping me set up Android SDK.
 
+## Link to GitHub
+
+See [Crunch Time!] on GitHub! (https://github.com/cs160-sp16/prog-01-crunch-time-briancompsci)
